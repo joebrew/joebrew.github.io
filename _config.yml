@@ -2,7 +2,7 @@
 title: Joe Brew
 email: joebrew@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Data scientist, epidemiologist, public health practitioner
+  epidemiologist, data scientist, public health practitioner, behavioral economics enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://joebrew.github.io" # the base hostname & protocol for your site
 twitter_username: bcndata
