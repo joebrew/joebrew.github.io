@@ -6,6 +6,9 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
+  <img src="images/image.png" alt="Computer Man" style="width:250px;height:250px;", align='right'>
+
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -17,6 +20,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
