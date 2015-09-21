@@ -1,8 +1,8 @@
 # Site settings
-title: Joe Brew
+title: Financing malaria control in Mozambique
 email: joebrew@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  epidemiologist, data scientist, public health practitioner, behavioral economics enthusiast
+  Private-sector foreign financing of malaria control and eradication: investigating preferences and quantifying its benefits and costs 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://joebrew.github.io" # the base hostname & protocol for your site
 twitter_username: bcndata

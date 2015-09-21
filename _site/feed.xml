@@ -1,62 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joe Brew</title>
-    <description>epidemiologist, data scientist, public health practitioner, behavioral economics enthusiast
+    <title>Financing malaria control in Mozambique</title>
+    <description>Private-sector foreign financing of malaria control and eradication: investigating preferences and quantifying its benefits and costs 
 </description>
     <link>https://joebrew.github.io/</link>
     <atom:link href="https://joebrew.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Sep 2015 02:48:15 -0400</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2015 02:48:15 -0400</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2015 10:28:24 -0400</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2015 10:28:24 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Who?</title>
+        <description>&lt;p&gt;Joe: &lt;a href=&quot;mailto:joebrew@gmail.com?Subject=Hello%20Joe&quot; target=&quot;_top&quot;&gt;joebrew@gmail.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Elisa: &lt;a href=&quot;mailto:elisa.sicuri@isglobal.org?Subject=Hello%20Elisa&quot; target=&quot;_top&quot;&gt;elisa.sicuri@isglobal.org&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 18 Sep 2015 09:51:26 -0400</pubDate>
-        <link>https://joebrew.github.io/jekyll/update/2015/09/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://joebrew.github.io/jekyll/update/2015/09/18/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 21 Sep 2015 11:51:23 -0400</pubDate>
+        <link>https://joebrew.github.io/none/2015/09/21/who.html</link>
+        <guid isPermaLink="true">https://joebrew.github.io/none/2015/09/21/who.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>none</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyllllll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>What?</title>
+        <description>&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+&lt;p&gt;Foreign investments to finance malaria elimination: evidence from the south of Mozambique&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Elimination of malaria from one of the endemic countries with the highest burden of disease, Mozambique, will require, in addition to biological feasibility, at least two conditions: secured high and long term investments and a profound knowledge of individuals and community preferences over current and potential new malaria elimination tools. The first condition will prevent malaria elimination to fail due to lack of funding and the second will guarantee compliance with the strategies adopted.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;n &lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;
-&lt;span class=&quot;kr&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;i &lt;span class=&quot;kr&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;n&lt;span class=&quot;p&quot;&gt;)){&lt;/span&gt;
-	&lt;span class=&quot;kp&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;paste0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;This is number&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; i&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;High level funding could be guaranteed by foreign for profit investments, currently high in the country and focused on activities such as the construction of infrastructures in the capital city Maputo. In order to push foreign capitals towards malaria elimination it is crucial to prove that malaria has a strong impact in reducing economic growth, meaning that if malaria would be eliminated this will potentially translate into high economic returns. In addition, the knowledge of community’s preferences over malaria elimination tools is a prerequisite itself and may ensure potential investors of the high probability of elimination success.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project aims at exploring the feasibility of foreign for profit investments to finance partially or entirely a malaria elimination programme in Mozambique through a transdisciplinary approach to tackle several research questions associated with this complex topic: characterization of current foreign investment in country; interest and availability of foreign investors to finance malaria elimination; burden of malaria among workers and its impact on productivity and, thus, on economic growth; workers’ and community preferences on malaria control tools.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Sep 2015 10:51:23 -0400</pubDate>
+        <link>https://joebrew.github.io/none/2015/09/21/what.html</link>
+        <guid isPermaLink="true">https://joebrew.github.io/none/2015/09/21/what.html</guid>
+        
+        
+        <category>none</category>
+        
+      </item>
+    
+      <item>
+        <title>Where?</title>
+        <description>&lt;p&gt;The insitutions involved in this project are in Spain, the Netherlands and Mozambique:&lt;/p&gt;
+
+&lt;iframe src=&quot;/m.html&quot; width=&quot;600&quot; height=&quot;350&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;And here’s the code to generate the above map in R.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;kn&quot;&gt;library&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;leaflet&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;library&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ggmap&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Create a dataframe of locations, descriptions and names&lt;/span&gt;
+places &lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;data.frame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;place &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Gainesville, FL, USA&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+                               &lt;span class=&quot;s&quot;&gt;&amp;#39;London, England&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                               &lt;span class=&quot;s&quot;&gt;&amp;#39;Barcelona, Spain&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                               &lt;span class=&quot;s&quot;&gt;&amp;#39;Manhica, Mozambique&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                               &lt;span class=&quot;s&quot;&gt;&amp;#39;Amsterdam, Netherlands&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+                     lon &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;-82.3248262&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;-0.1277583&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2.1734035&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;32.7971649&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.8951679&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+                     lat &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;29.6516344&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;51.50735&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;41.3850639&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;-25.3923014&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;52.3702157&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+                     description &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Joe&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                                     &lt;span class=&quot;s&quot;&gt;&amp;#39;Elisa&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                                     &lt;span class=&quot;s&quot;&gt;&amp;#39;ISGlobal (main institution)&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                                     &lt;span class=&quot;s&quot;&gt;&amp;#39;Centro de Investigação em Saúde de Manhiça (research site)&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                                     &lt;span class=&quot;s&quot;&gt;&amp;#39;(secondary research institution)&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+                     stringsAsFactors &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;FALSE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;# Run the following if you want to geocode the locations:&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;# temp &amp;lt;- geocode(places$place)&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Create a leaflet widget&lt;/span&gt;
+m &lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt; leaflet&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;# addProviderTiles(&amp;quot;Stamen.Toner&amp;quot;) %&amp;gt;%&lt;/span&gt;
+  addProviderTiles&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Stamen.Watercolor&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&amp;gt;%&lt;/span&gt;
+  setView&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;lng&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; lat&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;25&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; zoom&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&amp;gt;%&lt;/span&gt;
+  addMarkers&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;lng&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;places&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;lon&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+             lat&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; places&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;lat&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+             popup&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;paste0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;places&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;place&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39; : &amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                         places&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;description&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+  
+&lt;span class=&quot;c1&quot;&gt;# Save the widget to an html file&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;library&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;htmlwidgets&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+saveWidget&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;m&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; file&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/home/joebrew/Documents/joebrew.github.io/m.html&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 </description>
-        <pubDate>Fri, 18 Sep 2015 09:51:23 -0400</pubDate>
-        <link>https://joebrew.github.io/none/2015/09/18/test-post.html</link>
-        <guid isPermaLink="true">https://joebrew.github.io/none/2015/09/18/test-post.html</guid>
+        <pubDate>Mon, 21 Sep 2015 09:51:23 -0400</pubDate>
+        <link>https://joebrew.github.io/none/2015/09/21/locations.html</link>
+        <guid isPermaLink="true">https://joebrew.github.io/none/2015/09/21/locations.html</guid>
         
         
         <category>none</category>
