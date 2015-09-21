@@ -18,6 +18,8 @@ permalink: /publications/
 10. A public toolkit for private disease control initiatives (interactive, online tools)
 11. Cautious but willing: a qualitative assessment of views regarding malaria control among industry, business and governmental leaders in Mozambique
 12. Does origin of teacher matter in malaria education? 
+13. Social network analysis of malaria contagion in Mozambique.
+14. Mapping malaria: a low-cost approach to understanding malaria's spatial distribution
 
 ## Published
 
