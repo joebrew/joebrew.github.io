@@ -1,9 +1,26 @@
 ---
 layout: page
-title: About Joe
+title: About
 permalink: /about/
 ---
 
-Here are a bunch of details on Joe.
+<img src="../images/headshot_small.png" alt="Joe Brew" style="width:200px;" align='right'>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+### Professional   
+* Florida Department of Health - Disease Control Unit  
+* Lendable  
+
+### Research
+* The economics of malaria eradication  
+* Emerging influenza
+* School/youth health 
+* Obesity
+
+### Personal
+
+### Contact  
+Email: <a href="mailto:joebrew@gmail.com?Subject=Hello%20Joe" target="_top">joebrew@gmail.com</a>  
+Skype: joebrew  
+Tel: +001 352 318 4553
+
