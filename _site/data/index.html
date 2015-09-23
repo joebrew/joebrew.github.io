@@ -50,10 +50,6 @@
           
         
           
-          <a class="page-link" href="/tools/">Tools</a>
-          
-        
-          
           <a class="page-link" href="/what/">What?</a>
           
         
@@ -82,60 +78,31 @@
   </header>
 
   <article class="post-content">
-    <h2 id="prevalence-of-malaria-in-mozambique">Prevalence of malaria in Mozambique</h2>
+    <p>All code for the below visualizations is on <a href="https://github.com/joebrew/joebrew.github.io/tree/master/code">github</a>.</p>
 
-<p>Malaria is endemic through the country, and accounts for 42% of all deaths among those 5 or younger.</p>
+<h3 id="incidence-density-of-malaria">Incidence density of malaria</h3>
 
-<p>The below data come from the <a href="http://www.pmi.gov/docs/default-source/default-document-library/malaria-operational-plans/fy14/mozambique_mop_fy14.pdf?sfvrsn=12">2011 DHS</a>.  It shows the prevalence of malaria by district using rapid diagnostic tests.</p>
+<p>Malaria is endemic throughout Mozambique, and 100% of the population is at risk. 
+The below data come from the <a href="http://www.pmi.gov/docs/default-source/default-document-library/malaria-operational-plans/fy14/mozambique_mop_fy14.pdf?sfvrsn=12">2011 DHS</a>.  It shows the prevalence of malaria by district using rapid diagnostic tests.</p>
 
 <iframe src="/maps/malaria_prevalence.html" width="600" height="350">
 </iframe>
 
-<p>The code to generate the map in R is below:</p>
+<h3 id="poverty-and-wealth">Poverty and wealth</h3>
 
-<div class="highlight"><pre><code class="language-r" data-lang="r"><span class="kn">library</span><span class="p">(</span>leaflet<span class="p">)</span>
-<span class="kn">library</span><span class="p">(</span>ggmap<span class="p">)</span>
-<span class="kn">library</span><span class="p">(</span>dplyr<span class="p">)</span>
-<span class="kn">library</span><span class="p">(</span>raster<span class="p">)</span>
-<span class="kn">library</span><span class="p">(</span>RColorBrewer<span class="p">)</span>
-moz <span class="o">&lt;-</span> getData<span class="p">(</span><span class="s">&#39;GADM&#39;</span><span class="p">,</span> country <span class="o">=</span> <span class="s">&#39;MOZ&#39;</span><span class="p">,</span> level <span class="o">=</span> <span class="m">3</span><span class="p">)</span>
+<p>The below data come from the <a href="https://www.quandl.com/data/SGE/MOZGPCP-Mozambique-GDP-per-capita-PPP">World Bank</a>.</p>
 
+<iframe src="/code/barchart.html" width="550" height="350">
+</iframe>
 
-<span class="c1"># Bring in manually data about prevalence</span>
-df <span class="o">&lt;-</span> <span class="kt">data.frame</span><span class="p">(</span>NAME_1 <span class="o">=</span> <span class="kp">unique</span><span class="p">(</span><span class="kp">sort</span><span class="p">(</span>moz<span class="o">$</span>NAME_1<span class="p">)))</span>
-df<span class="o">$</span>val <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="m">47.2</span><span class="p">,</span> <span class="m">21.8</span><span class="p">,</span> <span class="m">36.8</span><span class="p">,</span> <span class="m">28.2</span><span class="p">,</span> <span class="m">3.2</span><span class="p">,</span> <span class="m">43.3</span><span class="p">,</span>
-            <span class="m">52.1</span><span class="p">,</span> <span class="m">30.7</span><span class="p">,</span> <span class="m">36.9</span><span class="p">,</span> <span class="m">54.8</span><span class="p">)</span>
+<h3 id="weather">Weather</h3>
 
-<span class="c1"># Bring data into moz</span>
-moz<span class="o">@</span>data <span class="o">&lt;-</span> left_join<span class="p">(</span>x <span class="o">=</span> moz<span class="o">@</span>data<span class="p">,</span> y <span class="o">=</span> df<span class="p">)</span>
+<iframe src="/code/weather.html" width="500" height="500">
+</iframe>
 
-<span class="c1"># Define color</span>
-pal <span class="o">&lt;-</span> brewer.pal<span class="p">(</span>n <span class="o">=</span> <span class="m">9</span><span class="p">,</span> <span class="s">&#39;Reds&#39;</span><span class="p">)</span>
-cols_range <span class="o">&lt;-</span> colorRampPalette<span class="p">(</span>pal<span class="p">)(</span><span class="kp">ceiling</span><span class="p">(</span><span class="kp">max</span><span class="p">(</span>moz<span class="o">$</span>val<span class="p">)))</span>
-cols <span class="o">&lt;-</span> cols_range<span class="p">[</span><span class="kp">ceiling</span><span class="p">(</span>moz<span class="o">$</span>val<span class="p">)]</span>
+<h3 id="more-data-to-come">More data to come</h3>
 
-<span class="c1"># Define some stuff for the legened</span>
-legend_seq <span class="o">&lt;-</span> <span class="kp">seq</span><span class="p">(</span><span class="m">5</span><span class="p">,</span> <span class="m">45</span><span class="p">,</span> <span class="m">10</span><span class="p">)</span>
-legend_cols <span class="o">&lt;-</span> cols_range<span class="p">[</span>legend_seq<span class="p">]</span>
-
-<span class="c1"># Create a leaflet widget</span>
-m <span class="o">&lt;-</span> leaflet<span class="p">(</span>moz<span class="p">)</span> <span class="o">%&gt;%</span>
-  addProviderTiles<span class="p">(</span><span class="s">&quot;Stamen.TonerBackground&quot;</span><span class="p">)</span> <span class="o">%&gt;%</span> 
-  setView<span class="p">(</span>lng<span class="o">=</span><span class="m">32.7971649</span><span class="p">,</span> lat<span class="o">=</span><span class="m">-25.3923014</span><span class="p">,</span> zoom<span class="o">=</span><span class="m">4</span><span class="p">)</span> <span class="o">%&gt;%</span>
-  addPolygons<span class="p">(</span>
-    stroke <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> fillOpacity <span class="o">=</span> <span class="m">0.9</span><span class="p">,</span> smoothFactor <span class="o">=</span> <span class="m">0.5</span><span class="p">,</span>
-    <span class="c1"># color = ~colorQuantile(&quot;YlOrRd&quot;, moz$ID_1)(ID_1)</span>
-    color <span class="o">=</span> cols<span class="p">)</span> <span class="o">%&gt;%</span>
-  addLegend<span class="p">(</span>position <span class="o">=</span> <span class="s">&#39;bottomright&#39;</span><span class="p">,</span>
-            colors <span class="o">=</span> legend_cols<span class="p">,</span>
-            labels <span class="o">=</span> legend_seq<span class="p">,</span>
-            opacity <span class="o">=</span> <span class="m">1</span><span class="p">,</span>
-            title <span class="o">=</span> <span class="s">&#39;Prevalence&#39;</span><span class="p">)</span>
-
-<span class="c1"># Save the widget to an html file</span>
-<span class="kn">library</span><span class="p">(</span>htmlwidgets<span class="p">)</span>
-saveWidget<span class="p">(</span>m<span class="p">,</span> file<span class="o">=</span><span class="s">&quot;~/Desktop/map.html&quot;</span><span class="p">)</span></code></pre></div>
-
+<p>This website is under construction.</p>
 
   </article>
 
