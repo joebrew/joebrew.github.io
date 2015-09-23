@@ -4,9 +4,9 @@ title: Data gallery
 permalink: /data/
 ---
 
-## Prevalence of malaria in Mozambique  
+### Prevalence of malaria in Mozambique  
 
-Malaria is endemic through the country, and accounts for 42% of all deaths among those 5 or younger.
+Malaria is endemic throughout Mozambique, and accounts for 42% of all deaths among those 5 or younger.
 
 The below data come from the [2011 DHS](http://www.pmi.gov/docs/default-source/default-document-library/malaria-operational-plans/fy14/mozambique_mop_fy14.pdf?sfvrsn=12).  It shows the prevalence of malaria by district using rapid diagnostic tests.  
 
@@ -62,4 +62,6 @@ saveWidget(m, file="~/Desktop/map.html")
 
 {% endhighlight %}
 
+### More data to come
 
+This website is under construction.
