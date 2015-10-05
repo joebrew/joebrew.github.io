@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio assignment
-permalink: /portfolio/
+title: Learning questions
+permalink: /learning_questions/
 ---
 
 ## Learning questions
