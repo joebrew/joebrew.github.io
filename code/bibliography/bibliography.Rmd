@@ -1,0 +1,34 @@
+---
+bibliography: bibliography.bib
+csl: american-journal-of-epidemiology.csl
+header-includes: \usepackage{longtable}
+highlight: zenburn
+latex_engine: xelatex
+output:
+  html_document: default
+  pdf_document:
+    includes:
+      in_header: style.sty
+---
+
+**Working bibliography** \footnote{Prepared for TGH course, September 2015, Amsterdam. Joe Brew}
+
+---
+nocite: | 
+  @Atkinson2009, 
+  @Berg2014,
+  @Bingham2012,
+  @Bottieau2013,
+  @Campo2014,
+  @Munguambe2011,
+  @Nhabomba2014,
+  @Onwujekwe2005, 
+  @Owens2015,
+  @Paul2015, 
+  @Plucinski2014,
+  @Plucinski2015,
+  @rdal2015,
+  @Singh2014,
+  @Smith2011, 
+  @Thuilliez2010
+...
