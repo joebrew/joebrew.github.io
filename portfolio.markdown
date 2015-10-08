@@ -1,8 +1,31 @@
 ---
 layout: page
-title: Learning questions
-permalink: /learning_questions/
+title: Portfolio Assignment
+permalink: /portfolio/
 ---
+
+## Cover page
+
+**PhD Vision**:  
+
+Malaria is costly to business in Mozambique, particularly the many large foreign direct investments
+But investors and business leaders are hesitant to invest in controlling malara because they’re not sure sure what the return on that investment will be, nor do they understand which interventions will be accepted by workers and their families.
+We’re trying to quantify the economics benefits of malaria control interventions from a business-owner’s or investor’s standpoint.
+We’re trying to qualify community and individual preferences about malaria control.
+If we do both of those things well, our work will hopefully facilitate an organic flow of resources to where it is most needed and will be most effective.
+
+**Societal impact**:
+
+Ideally, this research will saves lives and prevent illness by aligning individual and community preference for malaria control with the interests of private industry.  
+
+**Objectives**: 
+
+* Quantify the economic benefits of malaria control and eradication strategies from a business perspective (productivity, health care costs, return on investment, etc).
+* Qualify individual and community preferences and acceptance regarding different malaria control and eradication strategies.
+* Reflect on and provide guidelines for which malaria control and eradication strategies best meet the "win-win" criteria (good for business, good for public health, feasible, etc.), and are therefore implementable without signficant government or health agency involvement.
+* Build public-facing tools so that the research findings go beyond academia.
+
+
 
 ## Learning questions
 
@@ -15,7 +38,9 @@ The main epistemic cultural tension I envision will be between traditional *epid
 
 The two epistemiological cultures are not necessarily at odds.  On the contrary, one could argue that they are complementary rather than competitive.  That said, my project will seek to combine them in a way that may provoke doubt, or at the very least tension.  For example, were a simple epidemiological study able to quantify the burden of disease (in terms of incidence/prevalence and symptomology) of malaria among factory workers, the economic component of that same study would seek to translate from burden of disease to economic burden (in terms of lost productivity, treatment costs, etc.), and from there would go one degree further by extrapolating those findings to a larger area (ie, other factories, the district, region, country, etc.).  
 
-How does one resolve this conflict?  Does that the fact that the conflict exists even call for resolution?  Perhaps the difference in approaches renders a tension which is generative, adding to the process of knowledge accumulation in different forms rather than hindering that process.
+How does one resolve this conflict?  Does the fact that the conflict exists even call for resolution?  Perhaps the difference in approaches renders a tension which is generative, adding to the process of knowledge accumulation in different forms rather than hindering that process.
+
+Ultimately, my hope (and intent) will be to walk the lines between and among different epistemic cultures without fully "adopting" one as my own.  This means living somewhat in paradox - combining active and critical skepticism with a willingness to accept.  By not "fitting in" to one epistemic culture, the risk exists that the research will also not "fit in" to any relevant scientific dialogue.  But with risk comes reward - my hope is that an intentional non-conformity will lead to transformative research (with potentially transformative findings).  
 
 **Assigned question 2:** 
 _Personal Role  (We ask that you reflect on your role in a TD process and any doubts, skepticism or insecurity about your position (eg: activist vs researcher) you feel about being a TD researcher. What obstacles you expect to face and how you can deal with these?)_
@@ -28,7 +53,7 @@ What's lacking, and perhaps an area where I foresee many obstacles, is _research
 
 Once research identifies _what_ should be done, rather than go on to answer the obvious followup question (_how should it be done_), the researcher generally towels off and goes him.  This is likely due to a system which rewards "pure" research (ie, the "what") and punishes scientific enquiry into process (ie, the "how").  
 
-How to deal with this?  No idea.
+How to deal with this on a societal level?  The truth is, I have no idea.  But for the scope of this research, I feel that tackling the issue of activist vs. researcher is actually quite feasible.  In an initial phase of research, I will determine what can/should be done in regards to malaria control, based on both the economic benefits as well as the individual/community preferences.  The second phase of my research will examine _how_ to achieve the _what_ of the first phase.  Rather than segmenting these into two projects (with their own research questions), I prefer to think of the _what_ and the _how_ as one.  And my hope is that by approaching it with this "holistic" attitude, the implementation aspect of my research will be more feasible.  
 
 
 **Personal question 1:**
@@ -47,15 +72,32 @@ The answer is: we can't!  The lack of openness creates a lack of self-assessment
 _The scientist as an individual_:
 How many times have you heard a researcher say "my" data, "my" code, "my" topic, or "my" subjects.  If science is ultimately about arriving at objective, generalizable truth, then there is no place for "my".  Unless your research is truly funded by you and you alone (a situation which applies to essentially nobody), than the data isn't "yours", nor are the products (both official and un-official) which that data enables you to create.  The sooner researchers are able to let go of "my", the better off those who fund science (everyone) will be.
 
+Ultimately, I believe that good trandisciplinary researchers hinges less on the _methods_ of research chosen and more on the _awareness_ of the researcher of their methods (and those methods' shortcomings).  Regardless of your epistemic culture, qualitative vs. quantitative slant, etc., if you are aware of the strengths and weaknesses of your approach, are able to communicate your approach cleary, and are able to transform the "events" of your research into a coherent story, then you are doing good research.  In a collaborative academic environment, you "add" to the body of research in a spirit of openness, and allow for (even hope!) that your collaboration is critiqued and questioned.
+
 
 **Personal question 2:**
 _What mediums, apart from traditional academic publication, are best suited for communicating the results of your research, and for translating those results from science to public health practice?_
 
 I mention the above shortcomings of the current scientific paradigm (previous question) because in my research I will strive to embody the principal of openness, which in turn I hope facilitates honest assessment and collaboration.  I acknowledge _a priori_ that this research isn't _mine_: it belongs to the research subjects and those who fund it.  Accordingly, I will ensure that every step of the process is documented, reproducible, and changeable.  
 
-How can I communicate my ideas, processes, obstacles and results?  Academic papers will be the "polished" products, a place to deposit major findings for the purpose of adding to the scientific dialogue and body of knowledge.  But academic papers alone aren't enough.  I'll use this website as my "basecamp" (a place to go for all the project-related resources), but I'll also strive to make intermediary products (in addition the traditional academic publications) along the way.  My data (insofar as it does not reveal personal protected health information) will all be open, the software I use will be exclusively open-source, and I will under no circumstances publish in a journal which charges for access. 
+How can I communicate my ideas, processes, obstacles and results?  
 
+**Academic papers** will be the "polished" products, a place to deposit major findings for the purpose of adding to the scientific dialogue and body of knowledge.  But academic papers alone aren't enough.  
 
+**Electronic communication**: I'll use this website as my "basecamp" (a place to go for all the project-related resources), but I'll also strive to make intermediary products (in addition the traditional academic publications) along the way.  My data (insofar as it does not reveal personal protected health information) will all be open, the software I use will be exclusively open-source, and I will under no circumstances publish in a journal which charges for access. 
+
+**White papers / grey literature**: Finally, as much as academics like to believe that the whole world is listening to what they have to say, the reality is that hardly anyone is listening.  Particularly in the realms of business and industry (areas in which my topic will deal), many high-impact ideas are communicated in alternative forms, quasi-case studys, white papers, opinion leader speeches, etc.  My hope is that by first blazing a clear path in the realm of academic papers and electronic communication, I will facilitate my research's entry into the world of communication among and within industries and businesses.  
+
+## Concluding reflections 
+
+**Challenges**:
+Many challenges lie ahead, and limitations related to this study are already apparent.  
+
+First, this study presupposes that a "win-win" situation in which malaria control is both economically beneficial to the funder as well as the fund-recipient exists, and simply needs to be identified.  If that presupposition turns out to be incorrect (ie, the costs of privately-funded malaria control are greater than the returns in terms of productivity, worker absenteeism, etc.) than this research will most likely be less relevant and impactful than hoped.  
+
+Second, this research strives to perform an analysis which yields clearly quantified answers (ie, the return in dollars on every dollar spent on malaria control), while combining that with qualitative information regarding individual and community malaria control preferences.  The mechanism and manner by which these kinds of information (gathered from different epistemic "cultures") can be combined is still unclear.  
+
+Finally, even if this research is carried out in a manner that is completely valid internally, questions of external validity will continue to pose a challenge.  The scope of this research is limited to southern Mozambique - other areas with different cultural attitudes, different business practices, and different epidemiological landscapes will likely necessitate distinct analyses.  It will be challenging to integrate the specificity of this research with the larger scientific dialogue on malaria control.
 
 **Bibliography**:
 
