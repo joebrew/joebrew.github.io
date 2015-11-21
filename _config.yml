@@ -1,12 +1,16 @@
 # Site settings
 title: Financing malaria control in Mozambique
-email: joebrew@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Private-sector foreign financing of malaria control and eradication: investigating preferences and quantifying its benefits and costs 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://joebrew.github.io" # the base hostname & protocol for your site
+header-img: img/landing.JPG
+email: joe@gmail.com
+description: "Private-sector foreign financing of malaria control and eradication: investigating preferences and quantifying its benefits and costs"
+url: "joebrew.github.io"
 twitter_username: bcndata
 github_username:  joebrew
+facebook_username:  joebrew
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

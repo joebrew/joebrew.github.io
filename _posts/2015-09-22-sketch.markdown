@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Project sketch"
+subtitle:   "An overview of the work ahead"
 date:   2015-09-22 13:51:23
 categories: none
+author:     "Joe Brew"
+header-img: "img/data_please/data_please_1.JPG"
 ---
 
 Traditionally, government resources are the primary source of funding for controlling malaria. One reason why the private sector plays only a tertiary role is that the costs of malaria control are known, whereas its benefits are difficult to quantify. It stands to reason, however, that reducing the burden of malaria in endemic areas would result in higher worker output and greater productivity. If these economic benefits are quantified, the flow of private investment to malaria control will increase in cases in which it is beneficial to a company's bottom line.
