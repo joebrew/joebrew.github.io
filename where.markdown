@@ -2,6 +2,8 @@
 layout: page
 title: Where?
 permalink: /where/
+author:     "Joe Brew"
+header-img: "img/where.JPG"
 ---
 
 The insitutions involved in this project are:  
@@ -14,7 +16,7 @@ The insitutions involved in this project are:
 <iframe src = "/maps/world.html" width="600" height="350">
 </iframe>
 
-And here's the code to generate the above map in R.
+<!-- And here's the code to generate the above map in R.
 
 {% highlight r %}
 library(leaflet)
@@ -52,3 +54,4 @@ library(htmlwidgets)
 saveWidget(m, file="/home/joebrew/Documents/joebrew.github.io/m.html")
 
 {% endhighlight %}
+ -->

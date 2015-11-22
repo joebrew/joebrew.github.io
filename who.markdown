@@ -2,6 +2,8 @@
 layout: page
 title: Who?
 permalink: /who/
+author:     "Joe Brew"
+header-img: "img/who.JPG"
 ---
 
 

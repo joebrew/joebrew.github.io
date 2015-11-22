@@ -3,7 +3,7 @@ layout: page
 title: Data gallery
 permalink: /data/
 author:     "Joe Brew"
-header-img: "img/data_please/data_please_1.JPG"
+header-img: "img/data_gallery.JPG"
 ---
 
 All code for the below visualizations is on [github](https://github.com/joebrew/joebrew.github.io/tree/master/code). 

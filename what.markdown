@@ -2,6 +2,8 @@
 layout: page
 title: What?
 permalink: /what/
+author:     "Joe Brew"
+header-img: "img/what.JPG"
 ---
 
 
@@ -15,3 +17,13 @@ Elimination of malaria from one of the endemic countries with the highest burden
 High level funding could be guaranteed by foreign for profit investments, currently high in the country and focused on activities such as the construction of infrastructures in the capital city Maputo. In order to push foreign capitals towards malaria elimination it is crucial to prove that malaria has a strong impact in reducing economic growth, meaning that if malaria would be eliminated this will potentially translate into high economic returns. In addition, the knowledge of community’s preferences over malaria elimination tools is a prerequisite itself and may ensure potential investors of the high probability of elimination success.  
 
 This project aims at exploring the feasibility of foreign for profit investments to finance partially or entirely a malaria elimination programme in Mozambique through a transdisciplinary approach to tackle several research questions associated with this complex topic: characterization of current foreign investment in country; interest and availability of foreign investors to finance malaria elimination; burden of malaria among workers and its impact on productivity and, thus, on economic growth; workers’ and community preferences on malaria control tools.
+
+## The elevator pitch
+
+Here's how one might describe this project in < 1 minute (ie, when making a pitch on an elevator):
+
+* Malaria is costly to business in Mozambique, particularly the many large foreign direct investments  
+* But investors and business leaders are hesitant to invest in controlling malara because they're not sure sure what the return on that investment will be, nor do they understand which interventions will be accepted by workers and their families.
+* We're trying to quantify the economics benefits of malaria control interventions from a business-owner's or investor's standpoint.
+* We're trying to qualify community and individual preferences about malaria control.  
+* If we do both of those things well, our work will hopefully facilitate the natural and organic flow of resources to where it is most needed and will be most effective.

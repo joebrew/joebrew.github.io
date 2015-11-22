@@ -12,3 +12,9 @@ Here's how one might describe this project in < 1 minute (ie, when making a pitc
 * We're trying to quantify the economics benefits of malaria control interventions from a business-owner's or investor's standpoint.
 * We're trying to qualify community and individual preferences about malaria control.  
 * If we do both of those things well, our work will hopefully facilitate the natural and organic flow of resources to where it is most needed and will be most effective.
+
+More formally:
+
+Traditionally, government resources are the primary source of funding for controlling malaria. One reason why the private sector plays only a tertiary role is that the costs of malaria control are known, whereas its benefits are difficult to quantify. It stands to reason, however, that reducing the burden of malaria in endemic areas would result in higher worker output and greater productivity. If these economic benefits are quantified, the flow of private investment to malaria control will increase in cases in which it is beneficial to a company’s bottom line.
+
+In order to quantify the economic benefits of malaria control for consumption by potential foreign investors, better understanding is needed both of (a) which methods are most acceptable by local populations, (b) the cost-effectivity and cost-utility of malaria control methods in regards to their impact on worker productivity and (c) the landscape of potential economic beneficiaries of malaria control. This project aims to address the above three gaps in knowledge, producing public-facing estimates and toolkits for the maximization of profit and public health.

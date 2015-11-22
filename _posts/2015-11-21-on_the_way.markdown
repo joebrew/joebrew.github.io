@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Control or eradication?"
+subtitle:   "A strategic approach to malaria control"
+date:       2015-11-21 12:00:00
+author:     "Joe Brew"
+header-img: "img/on_the_way/1.JPG"
+---
+
+
+This is a test of some markdown.
+
+# Header 1
+
+Text 
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/on_the_way/2.JPG" alt="Photo description bla bla bla.">
+</a>
+<span class="caption text-muted">Some subtitle/quote.</span>
+
+
+
+Text text text.
+
+# Another header
+
+
+Some more text
+
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/on_the_way/3.JPG" alt="Another photo description">
+</a>
+<span class="caption text-muted">Another photo subtitle</span>
+
+
+More text.

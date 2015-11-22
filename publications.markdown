@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 permalink: /publications/
+author:     "Joe Brew"
+header-img: "img/publications.JPG"
 ---
 
 ## In progress
