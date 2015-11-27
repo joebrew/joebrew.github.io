@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Control or eradication?"
-subtitle:   "A strategic approach to malaria control"
+subtitle:   "THIS IS JUST A SAMPLE POST (UNDER CONSTRUCTION)"
 date:       2015-11-21 12:00:00
 author:     "Joe Brew"
 header-img: "img/on_the_way/1.JPG"
