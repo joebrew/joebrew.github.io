@@ -16,29 +16,20 @@ color:
 people:
 - name: Joe Brew
   pic: 1
-  position: Lead Designer
+  position: Researcher
   social:
-    - title: twitter
+    - title: linkedin
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+
+- name: Elisa Sicuri
+  pic: 2
+  position: Researcher
   social:
     - title: twitter
       url: #
