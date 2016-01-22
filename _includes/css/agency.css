@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.primary }};
 }
 
@@ -292,7 +292,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 700;
     line-height: 50px;
 }
@@ -306,8 +306,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
-        font-style: italic;
+        font-size: 30px;
         line-height: 40px;
     }
 
