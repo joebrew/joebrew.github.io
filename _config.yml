@@ -1,16 +1,72 @@
+url: http://economicsofmalaria.com/
+# baseurl: /agency-jekyll-theme/
+
 # Site settings
-title: Financing malaria control in Mozambique
-header-img: img/landing.JPG
-email: joe@gmail.com
-description: "Private-sector foreign financing of malaria control and eradication: investigating preferences and quantifying its benefits and costs"
-url: "joebrew.github.io"
-twitter_username: bcndata
-github_username:  joebrew
-facebook_username:  joebrew
+title: Economics of malaria
+email: joebrew@gmail.com
+description: "Research on malaria at the intersection of epidemiology and economics"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ff6600
+  secondary: 0099ff  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Joe Brew
+  pic: 1_resized
+  position: Researcher
+  social:
+    - title: facebook
+      url: https://www.facebook.com/josephbrew
+    - title: github
+      url: http://github.com/joebrew   
+    - title: linkedin
+      url: https://www.linkedin.com/in/joe-brew-1061a33a
+    - title: twitter
+      url: https://twitter.com/bcndata
+
+
+
+- name: Elisa Sicuri
+  pic: 2_resized
+  position: Researcher
+  social:
+    - title: facebook
+      url: https://www.facebook.com/elisa.sicuri
+    - title: arrows
+      url: http://www.imperial.ac.uk/people/e.sicuri
+    - title: linkedin
+      url: https://es.linkedin.com/in/elisa-sicuri-02821217
+
+
+- name: Menno Pradhan
+  pic: 3_resized
+  position: Researcher
+  social:
+    - title: linkedin
+      url: https://nl.linkedin.com/in/menno-pradhan-74506b54
+    - title: arrows
+      url: http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Rosselló, 132, 7º
+  - line: 08036 Barcelona, Spain
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
 permalink: pretty
-paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
