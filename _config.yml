@@ -1,5 +1,5 @@
 url: http://economicsofmalaria.com/
-# baseurl: /agency-jekyll-theme/
+# baseurl: /joebrew.github.io/
 
 # Site settings
 title: Economics of malaria
@@ -16,7 +16,7 @@ color:
 people:
 - name: Joe Brew
   pic: 1_resized
-  position: Researcher
+  position: Doctoral fellow
   social:
     - title: facebook
       url: https://www.facebook.com/josephbrew
@@ -31,7 +31,7 @@ people:
 
 - name: Elisa Sicuri
   pic: 2_resized
-  position: Researcher
+  position: Supervisor
   social:
     - title: facebook
       url: https://www.facebook.com/elisa.sicuri
@@ -43,7 +43,7 @@ people:
 
 - name: Menno Pradhan
   pic: 3_resized
-  position: Researcher
+  position: Co-supervisor
   social:
     - title: linkedin
       url: https://nl.linkedin.com/in/menno-pradhan-74506b54
