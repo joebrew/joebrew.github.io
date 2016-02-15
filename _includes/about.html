@@ -1,39 +1,71 @@
 <!-- About Section -->
-    <section id="about">
+<section id="about">
+<!-- <div class="container">
+<div class="row">
+<div class="col-lg-12 text-center">
+<h2 class="section-heading">About</h2>
+</div>
+</div>
+
+<div class="row">
+<div class="col-lg-2">
+</div>
+
+<div class="col-lg-8">
+
+
+<p class="large text-muted">This project has 3 core areas of research:</p>
+<ol class="large text-muted">
+<li> Evaluating the economic impact of malaria control activities funded by the private foreign sector
+<li> Assessing current "supply" side activities, beliefs and views regarding malaria control
+<li> Assessing current "demand" side activities, beliefs and views regarding malaria control
+</ol>
+                
+
+
+
+
+</div>
+<div class="col-lg-2">
+</div>
+
+
+</div>
+<div align='center'>
+<a href="#details" class="page-scroll btn btn-xl">Details</a>
+</div>
+</div> -->
+
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted">A research initiative of MALTEM, ISGlobal, TGH and the CISM.</h3>
+                    <h3 class="section-subheading text-muted">3 areas of research</h3>
                 </div>
             </div>
-
             <div class="row">
-                <div class="col-lg-2">
+                {% for aor in site.areas_of_research %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                            <h4>{{ aor.name }}</h4>
+
+                        <a href="{{ site.baseurl }}/{{ aor.name }}"><img src="img/aor/{{ aor.pic }}.JPG" class="img-responsive img-circle" alt=""></a>
+                        <p class="text-muted" align='left'>{{ aor.subtitle }}</p>
+
+                    </div>
                 </div>
-
-                <div class="col-lg-8">
-                    <p class="large text-muted">This is a project whose purpose is the generation of knowledge and presentation of evidence regarding the feasibility and suitability of foreign investment to finance the elimination of malaria in southern Mozambique.</p>
-
-                    <p class="large text-muted">This project aims to explore the impact - in both health and economic terms - of foreign investment in malaria control. It strives to follow a transdisciplinary approach to tackle a multitude of factors asociated with this complex topic.  Specifically, those include (but are not limited to) a characterization of current foreign investment in the country; interest and availability of foreign investors to finance malaria elimination; burden of malaria among workers and its impact on productivity (and, by extension, economic growth); and community preferences on malaria control tools. </p>
-
-                    <p class="large text-muted">This projects aims to address the following questions:</p>
-                    <ul class='large text-muted'>
-                    <li> Which is the current situation of foreign direct investment and corporate social responsibility in Mozambique?  Which are the main sectors attracting funding?  Who are the major stakeholders?
-                    <li> Does there exist both interest and availability among foreign investors to invest in malaria elimination?
-                    <li> What is the burden of malaria among workers (of foreign firms) in the country?  Is the burden heavier than in the general population?  
-                    <li> Is there an association between malaria control initiatives funded by private firms and worker absenteeism/productivity? 
-                    <li> Do the (potential) decreases in worker absenteeism and the (potential) increases in productivity translate to a positive ROI for firms investing in malaria control initiatives?  
-                    <li> Which are workers' and communities' preferences regarding malaria control tools? Are the current tools being used in the malaria elminiation campaign acceptable? 
-                    <li> What is the potential for private foreign-funded malaria control activity to <em>complement</em> local, national and international malaria control and elimination campaigns?  
-                    <li> What is the potential benefit and risk for foreign-funded private malaria control initatives to <em>replace</em> other campigns?  
-
-                    </ul>
-
-
-                </div>
-                <div class="col-lg-2">
-                </div>
+                {% endfor %}
             </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">Taken together, the above 3 areas or research will establish the feasibility and suitability of scaling up foreign direct investment to finance the elimination of malaria in southern Mozambique.</p>
+                </div>
+
+            </div>
+            <div align='center'>
+<a href="#details" class="page-scroll btn btn-xl">Details</a>
+</div>
         </div>
-    </section>
+
+</section>
+
