@@ -45,12 +45,13 @@ people:
   pic: 2_resized
   position: Supervisor
   social:
-    - title: facebook
-      url: https://www.facebook.com/elisa.sicuri
-    - title: arrows
-      url: http://www.imperial.ac.uk/people/e.sicuri
     - title: linkedin
       url: https://es.linkedin.com/in/elisa-sicuri-02821217
+    - title: arrows
+      url: http://www.imperial.ac.uk/people/e.sicuri
+    - title: facebook
+      url: https://www.facebook.com/elisa.sicuri
+
 
 - name: Laia Cireira Crivillé
   pic: 4_resized
