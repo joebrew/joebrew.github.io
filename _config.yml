@@ -16,15 +16,15 @@ color:
 areas_of_research:
 - name: Supply-side 
   pic: 1_resized
-  subtitle: "Describing foreign firms' current engagement in malaria control activities, assessing motivation, and gauging interest and willingness to increase investment in malaria control"
+  subtitle: "Describing foreign firms' current engagement in malaria control activities, and analyzing the economic effect of privately-funded malaria prevention"
 
 - name: Demand-side
   pic: 2_resized
-  subtitle: "Measuring community and individual knowledge, attitudes and practices regarding malaria control through discrete choice experimentation"
+  subtitle: "Measuring community and individual preferences regarding malaria control through discrete choice experimentation"
 
 - name: Impact-evaluation
   pic: 3_resized
-  subtitle: "Quantifying the economic impact of malaria control activities carried out by foreign firms"
+  subtitle: "Systematically quantifying the costs and economic impact of malaria control activities"
 
 # Team names, titles and social links
 people:
@@ -82,5 +82,5 @@ address:
   - line: 08036 Barcelona, Spain
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 permalink: pretty
