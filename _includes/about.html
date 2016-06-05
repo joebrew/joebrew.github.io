@@ -36,31 +36,70 @@
 </div>
 </div> -->
 
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted">A PhD project with 3 areas of research</h3>
-                </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">About</h2>
             </div>
-            <div class="row">
-                {% for aor in site.areas_of_research %}
-                <div class="col-sm-4">
-                    <div class="team-member">
-                            <h4>{{ aor.name }}</h4>
-
-                        <a href="{{ site.baseurl }}/{{ aor.name }}"><img src="img/aor/{{ aor.pic }}.JPG" class="img-responsive img-circle" alt=""></a>
-                        <p class="text-muted" align='left'>{{ aor.subtitle }}</p>
-
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-
-            <div align='center'>
-<a href="#details" class="page-scroll btn btn-xl">Details</a>
-</div>
         </div>
+        <div class="row">
+            <h2 class="section-subheading text-muted" align="center">Three years</h2>
+            <p>This PhD project, funded by through the Transdisciplinary Global Health programme (European Commission - Erasmus Mundus), will be carried out from 2016 to 2018.</p>
+            <br>
+        </div> 
+
+
+        <div class="row">
+            <h2 class="section-subheading text-muted" align="center">Three institutions</h2>
+            <br>
+            <div class="col-sm-4">
+                <div class="team-member">
+                        <h4>ISGlobal (home institution)</h4>
+                    <a href="{{ site.baseurl }}/img/resized_isglobal.jpg"><img src="img/logos/resized_isglobal.jpg" class="img-responsive img-circle" alt=""></a>
+                    <p class="text-muted" align='center'>Institut de Salut Global de Barcelona</p>
+
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                        <h4>CISM (field research institution)</h4>
+                    <a href="{{ site.baseurl }}/img/resized_cism.jpg"><img src="img/logos/resized_cism.jpg" class="img-responsive img-circle" alt=""></a>
+                    <p class="text-muted" align='center'>Centro de Investigação em Saude de Manhiça</p>
+
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                        <h4>VU (secondary institution)</h4>
+                    <a href="{{ site.baseurl }}/img/resized_vu.jpg"><img src="img/logos/resized_vu.jpg" class="img-responsive img-circle" alt=""></a>
+                    <p class="text-muted" align='center'>Vrije Universiteit Amsterdam</p>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <h2 class="section-subheading text-muted" align="center">Three main areas of research</h2>
+            <br>
+
+            {% for aor in site.areas_of_research %}
+            <div class="col-sm-4">
+                <div class="team-member">
+                        <h4>{{ aor.name }}</h4>
+
+                    <a href="{{ site.baseurl }}/{{ aor.name }}"><img src="img/aor/{{ aor.pic }}.JPG" class="img-responsive img-circle" alt=""></a>
+                    <p class="text-muted" align='left'>{{ aor.subtitle }}</p>
+
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div align='center'>
+            <a href="#details" class="page-scroll btn btn-xl">Details</a>
+        </div>
+    </div>
 
 </section>
 
