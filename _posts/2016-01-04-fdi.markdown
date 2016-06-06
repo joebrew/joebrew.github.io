@@ -1,0 +1,17 @@
+---
+title: FDI and CSR
+subtitle: Foreign direct investment and malaria in Mozambique
+layout: default
+modal-id: 2
+date: 2016-01-02
+img: c.JPG
+thumbnail: x.jpg
+alt: image-alt
+project-date: January 2016
+description: An overview of the role of foreign direct investment and corporate social responsibility in malaria control in Mozambique.
+
+---
+
+### Current protocol (under revision)
+
+[https://github.com/joebrew/fdi_moz/blob/master/paper.pdf](https://github.com/joebrew/fdi_moz/blob/master/paper.pdf)
