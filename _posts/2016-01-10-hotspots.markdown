@@ -1,0 +1,15 @@
+---
+title: Identifying hotspots
+subtitle: Geospatial clusters of malaria
+link: https://github.com/joebrew/tgh/blob/master/protocols/hotspots_malaria/hotspots_malaria.pdf
+layout: default
+modal-id: 10
+date: 2016-01-10
+thumbnail: p.jpg
+alt: image-alt
+project-date: January 2016
+---
+
+
+Details here: 
+[https://github.com/joebrew/tgh/blob/master/protocols/hotspots_malaria/hotspots_malaria.pdf](https://github.com/joebrew/tgh/blob/master/protocols/hotspots_malaria/hotspots_malaria.pdf)

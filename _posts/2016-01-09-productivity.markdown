@@ -1,15 +1,15 @@
 ---
-title: Systematic literature review
+title: Malaria and worker productivity
 subtitle: Malaria's economic effect
 link: https://github.com/joebrew/tgh
 layout: default
 modal-id: 6
 date: 2016-01-06
 img: 6.JPG
-thumbnail: q.jpg
+thumbnail: t.jpg
 alt: image-alt
 project-date: January 2016
-description: A systematic literature review of the non-health benefits of malaria control and prevention activities
+description: A collaboration with Ilovo Sugar, Ltd
 ---
 
 Details here: 

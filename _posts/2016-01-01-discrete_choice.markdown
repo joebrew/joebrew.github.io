@@ -1,6 +1,6 @@
 ---
 title: Discrete choice experimentation
-subtitle: Assessing community preferences for malaria control
+subtitle: Community malaria control preferences
 layout: default
 modal-id: 1
 date: 2016-01-01

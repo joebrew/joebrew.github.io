@@ -1,6 +1,6 @@
 ---
 title: FDI and CSR
-subtitle: Foreign direct investment and malaria in Mozambique
+subtitle: Investment and malaria
 layout: default
 modal-id: 2
 date: 2016-01-02
