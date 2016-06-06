@@ -1,14 +1,15 @@
 ---
 title: Policy and incentives
-subtitle: International collaboration and free-riding
+subtitle: Cross-border malaria elimination
 link: 
 layout: default
 modal-id: 10
 date: 2016-01-10
-thumbnail: p.jpg
+thumbnail: u.jpg
 alt: image-alt
 project-date: January 2016
 ---
 
+A paper on the free-riders phenomenon and the "tragedy of the commons" in regards to achieving international malaria elimination.
 
-No details yet.
+No further details yet.
