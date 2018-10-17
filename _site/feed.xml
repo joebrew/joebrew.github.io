@@ -3,19 +3,19 @@
   <channel>
     <title>Economics of malaria</title>
     <description>Research on malaria at the intersection of epidemiology and economics</description>
-    <link>http://economicsofmalaria.com//</link>
-    <atom:link href="http://economicsofmalaria.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Nov 2017 08:53:13 -0500</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2017 08:53:13 -0500</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 17 Oct 2018 15:38:46 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Oct 2018 15:38:46 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Road to eradication</title>
         <description>&lt;p&gt;No details yet&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/11/road-to-eradication/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/11/road-to-eradication/</guid>
+        <pubDate>Mon, 11 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/11/road-to-eradication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/11/road-to-eradication/</guid>
         
         
       </item>
@@ -26,9 +26,9 @@
 
 &lt;p&gt;No further details yet.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/10/freeriders/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/10/freeriders/</guid>
+        <pubDate>Sun, 10 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/10/freeriders/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/10/freeriders/</guid>
         
         
       </item>
@@ -38,9 +38,9 @@
         <description>&lt;p&gt;Details here: 
 &lt;a href=&quot;https://github.com/joebrew/tgh/blob/master/protocols/hotspots_malaria/hotspots_malaria.pdf&quot;&gt;https://github.com/joebrew/tgh/blob/master/protocols/hotspots_malaria/hotspots_malaria.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/10/hotspots/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/10/hotspots/</guid>
+        <pubDate>Sun, 10 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/10/hotspots/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/10/hotspots/</guid>
         
         
       </item>
@@ -50,9 +50,9 @@
         <description>&lt;p&gt;Details here: 
 &lt;a href=&quot;https://github.com/joebrew/spatial_clusters&quot;&gt;https://github.com/joebrew/spatial_clusters&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 08 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/08/clustering/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/08/clustering/</guid>
+        <pubDate>Fri, 08 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/08/clustering/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/08/clustering/</guid>
         
         
       </item>
@@ -62,22 +62,22 @@
         <description>&lt;p&gt;Details here: 
 &lt;a href=&quot;https://github.com/joebrew/tgh&quot;&gt;https://github.com/joebrew/tgh&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 06 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/06/productivity/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/06/productivity/</guid>
+        <pubDate>Wed, 06 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/06/productivity/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/06/productivity/</guid>
         
         
       </item>
     
       <item>
-        <title>Malaria&#39;s cognitive impact</title>
+        <title>Malaria's cognitive impact</title>
         <description>&lt;p&gt;In collaboration with the Mozambican Alliance Towards the Elimination of Malaria (MALTEM) and the Centro de Investigação em Saude de Manhiça (CISM) of Mozambique.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/joebrew/tgh&quot;&gt;https://github.com/joebrew/tgh&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 06 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/06/academic-outcomes/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/06/academic-outcomes/</guid>
+        <pubDate>Wed, 06 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/06/academic-outcomes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/06/academic-outcomes/</guid>
         
         
       </item>
@@ -87,9 +87,9 @@
         <description>&lt;p&gt;Details here: 
 &lt;a href=&quot;https://github.com/joebrew/tgh&quot;&gt;https://github.com/joebrew/tgh&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 06 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/06/systematic-review/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/06/systematic-review/</guid>
+        <pubDate>Wed, 06 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/06/systematic-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/06/systematic-review/</guid>
         
         
       </item>
@@ -100,9 +100,9 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/joebrew/gsk&quot;&gt;https://github.com/joebrew/gsk&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/05/cost-of-vaccination/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/05/cost-of-vaccination/</guid>
+        <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/05/cost-of-vaccination/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/05/cost-of-vaccination/</guid>
         
         
       </item>
@@ -113,9 +113,9 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/joebrew/tgh/blob/master/protocols/atlas/atlas.pdf&quot;&gt;https://github.com/joebrew/tgh/blob/master/protocols/atlas/atlas.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/04/atlas-health-and-wealth/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/04/atlas-health-and-wealth/</guid>
+        <pubDate>Mon, 04 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/04/atlas-health-and-wealth/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/04/atlas-health-and-wealth/</guid>
         
         
       </item>
@@ -126,9 +126,9 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/joebrew/tgh/blob/master/protocols/can_we_do_it_a_survey_of_research_professionals/isc_sicuri_brew_survey_proposal.pdf&quot;&gt;https://github.com/joebrew/tgh/blob/master/protocols/can_we_do_it_a_survey_of_research_professionals/isc_sicuri_brew_survey_proposal.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 03 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://economicsofmalaria.com//2016/01/03/survey-of-malaria-professionals/</link>
-        <guid isPermaLink="true">http://economicsofmalaria.com//2016/01/03/survey-of-malaria-professionals/</guid>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/01/03/survey-of-malaria-professionals/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/03/survey-of-malaria-professionals/</guid>
         
         
       </item>
